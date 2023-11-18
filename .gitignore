@@ -1,0 +1,6 @@
+.idea
+.env
+.project
+.classpath
+.settings
+target
